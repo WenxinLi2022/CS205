@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "new": "c",
+        "typeinfo": "c",
+        "functional": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "math.h": "c"
+    }
+}
